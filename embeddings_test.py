@@ -6,10 +6,10 @@ MODEL = "embeddinggemma"
 
 
 texts = [
-    "The berry flavor is being overwhelmed by the milky whey taste.",
-    "I am having problems with the flavor of my protein powder.",
-    "My cybersecurity course is progressing slowly.",
-    "I want to improve my Python programming skills."
+    "The train was delayed by forty minutes this morning.",
+    "My commute took much longer than usual today.",
+    "I need to finish my data structures assignment.",
+    "I want to get better at Python programming."
 ]
 
 
