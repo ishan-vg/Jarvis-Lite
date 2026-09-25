@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Personal data: the vector index is built from private notes
+data/
+
+# Local config with personal paths (use config/config.example.json)
+config/config.json
+
+# Private working notes
+Jarvis_Lite_Claude_Code_Handover.md
+RETRIEVAL_EXPLAINED.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Upload staging folder
+Jarvis-Lite-upload/

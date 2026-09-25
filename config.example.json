@@ -1,0 +1,5 @@
+{
+    "model": "deepseek-r1:7b",
+    "instructions_path": "C:\\path\\to\\your\\vault\\Instructions\\core.md",
+    "vault_path": "C:\\path\\to\\your\\vault"
+}
